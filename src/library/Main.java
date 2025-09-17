@@ -15,7 +15,7 @@ public class Main {
         users.put("23bcs075", "Sri@123");
         boolean loggedIn = false;
         while (!loggedIn) {
-            System.out.println("===== Library Login =====");
+            System.out.println("**** Library Login ****");
             System.out.print("Username: ");
             String user = sc.nextLine().trim();
             System.out.print("Password: ");
