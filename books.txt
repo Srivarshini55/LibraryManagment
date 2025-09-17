@@ -1,0 +1,19 @@
+1|Java Basics|Author A|Available
+2|Python Guide|Author B|Available
+3|HTML & CSS|Author C|Borrowed
+4|Data Structures|Author D|Available
+5|Java Basics|Author A|Available
+6|Python Guide|Author B|Available
+7|HTML & CSS|Author C|Borrowed
+8|Data Structures|Author D|Available
+9|Algorithms|Author E|Available
+10|C Programming|Author F|Available
+11|DBMS Concepts|Author G|Available
+12|Operating Systems|Author H|Available
+13|Networking|Author I|Available
+14|Software Testing|Author J|Available
+15|Machine Learning|Author K|Available
+16|Artificial Intelligence|Author L|Available
+17|Web Development|Author M|Available
+18|Data Science|Author N|Available
+19|Java Advanced|Author O|Available
